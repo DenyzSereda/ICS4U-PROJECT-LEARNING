@@ -1,0 +1,33 @@
+html {
+    font-size: 18px;
+}
+body {
+    margin: 10px;
+   
+}
+
+#pOne {
+    /*  background-color: lightcyan; */
+    background: linear-gradient(to right, rgb(0, 232, 232), rgb(225, 91, 225));
+    background-repeat: no-repeat;
+    padding: 5px;
+}
+
+#denys {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    border-color:rgb(159, 155, 155);
+    border-style: outset;
+    border-width: 4px;
+    padding:5px;
+    
+} 
+
+#bulk {
+    padding-left: 10px;
+    margin-left: 10px;
+    border:1px solid;
+    border-color: black;
+    width: 95%;
+
+}
